@@ -17,9 +17,8 @@
 
 - 🏠 Don't hesitate to drop me a **👋** on Telegram –  [ahrfirstday](https://t.me/ahrfirstday) my username!
 <!--Intro end-->
-<h2 align="center">Education</h2>
-
 <div align="center">
+    <h2 align="center">Education</h2>
   <table style="margin-left: auto; margin-right: auto;">
     <tr>
       <td align="center">
@@ -35,6 +34,11 @@
     </tr>
   </table>
 </div>
+<h2 align="center">Certifications 🏆</h2>
+    <strong><ul>
+        <li><a href="https://learn.nvidia.com/certificates?id=HxN7RdbFTjmHqxbls88B5w">Getting Started with Deep Learning (NVIDIA, April 2025)</a></li>
+        <li><a href="https://learn.nvidia.com/certificates?id=yWqS99dwQ3WGtRRaHsXopw">Building Transformer-Based Natural Language Processing Applications (NVIDIA, May 2025)</a></li>
+    </ul></strong>
 <div align="center">
     <h2 align="center">Used Technologies</h2>
     <div align="center">
