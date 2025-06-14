@@ -52,8 +52,8 @@
 <hr>
 <footer align="center">
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ahrzeroday&include_all_commits=true&show_icons=true&theme=radical" height="200">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahrzeroday&layout=compact&hide=css&theme=radical" alt="Intellij" height="200">
+        <img src="https://github-readme-stats.vercel.app/api?username=ahrzeroday&include_all_commits=true&show_icons=true&theme=radical" height="150">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahrzeroday&layout=compact&hide=css&theme=radical" alt="Intellij" height="150">
     </p>
 </footer>
 
